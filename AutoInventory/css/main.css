@@ -1,0 +1,41 @@
+﻿body {
+}
+
+#footer
+{
+    background-color: #000;
+    border-top: 2px inset #555;
+    position:fixed;
+    bottom:0px;
+    width:100%;
+    display:inline;
+
+    color:#fff;
+}
+
+.LeftColumn{background-color:#eee;border-right: 2px inset #555;}
+.LeftColumn .Caption {padding:3px; text-align:center;}
+.LeftColumn li{white-space:nowrap;}
+.ReportSectionTitle {text-align:center;background-color:#fff;}
+
+label { width: 100px; text-align: right;}
+
+
+/* Large desktop */
+@media (min-width: 1200px) { 
+    body{
+    }
+}
+ 
+/* Portrait tablet to landscape and desktop */
+@media (min-width: 768px) and (max-width: 979px) { }
+ 
+/* Landscape phone to portrait tablet */
+@media (max-width: 767px) { 
+
+}
+ 
+/* Landscape phones and down */
+@media (max-width: 480px) {  
+
+}

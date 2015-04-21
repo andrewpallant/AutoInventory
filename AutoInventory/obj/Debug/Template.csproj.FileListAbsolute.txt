@@ -1,0 +1,6 @@
+C:\Users\Andrew\Documents\Visual Studio 2013\Projects\Template\Template\bin\Template.dll.config
+C:\Users\Andrew\Documents\Visual Studio 2013\Projects\Template\Template\bin\Template.dll
+C:\Users\Andrew\Documents\Visual Studio 2013\Projects\Template\Template\bin\Template.pdb
+C:\Users\Andrew\Documents\Visual Studio 2013\Projects\Template\Template\obj\Debug\Template.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\Documents\Visual Studio 2013\Projects\Template\Template\obj\Debug\Template.dll
+C:\Users\Andrew\Documents\Visual Studio 2013\Projects\Template\Template\obj\Debug\Template.pdb

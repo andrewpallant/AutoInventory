@@ -1,0 +1,6 @@
+C:\Users\Andrew\Documents\Visual Studio 2013\Projects\AutoInventory\AutoInventory\bin\AutoInventory.dll.config
+C:\Users\Andrew\Documents\Visual Studio 2013\Projects\AutoInventory\AutoInventory\bin\AutoInventory.dll
+C:\Users\Andrew\Documents\Visual Studio 2013\Projects\AutoInventory\AutoInventory\bin\AutoInventory.pdb
+C:\Users\Andrew\Documents\Visual Studio 2013\Projects\AutoInventory\AutoInventory\obj\Debug\AutoInventory.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\Documents\Visual Studio 2013\Projects\AutoInventory\AutoInventory\obj\Debug\AutoInventory.dll
+C:\Users\Andrew\Documents\Visual Studio 2013\Projects\AutoInventory\AutoInventory\obj\Debug\AutoInventory.pdb
