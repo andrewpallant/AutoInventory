@@ -21,11 +21,19 @@ namespace AutoInventory
                     String strID = Request["id"];
                     Int32 id = Int32.Parse(strID);
                     Automobile car = Automobile.getCar(id);
-                    txtManufacturer.Text = car.Manufacturer;
-                    txtMake.Text = car.Make;
-                    txtYear.Text = "" + car.Year;
-                    txtColour.Text = car.Colour;
-                    txtSeating.Text = "" + car.Seating;
+                    if (car.ID > 0)
+                    {
+                        txtManufacturer.Text = car.Manufacturer;
+                        txtMake.Text = car.Make;
+                        txtYear.Text = "" + car.Year;
+                        txtColour.Text = car.Colour;
+                        txtSeating.Text = "" + car.Seating;
+                    }
+                    else
+                    {
+                        // For Some Reason I cannot Find the Car
+                        Response.Redirect("CarInventory.aspx");
+                    }
                 }
             }
         }

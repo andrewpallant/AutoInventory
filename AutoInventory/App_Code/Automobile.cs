@@ -93,7 +93,7 @@ namespace AutoInventory.App_Code
         /// <summary>
         /// Save Car To Inventory
         /// </summary>
-        /// <returns></returns>
+        /// <returns>Saved Automobile Object</returns>
         public Automobile Save()
         {
             Automobile car = new Automobile();
@@ -132,6 +132,11 @@ namespace AutoInventory.App_Code
             return car;
         }
 
+        /// <summary>
+        /// Delete Car From Inventory
+        /// </summary>
+        /// <param name="id">Internal ID</param>
+        /// <returns>Deleted Automobile Object</returns>
         public static Automobile Delete(Int32 id)
         {
             Automobile car = new Automobile();
